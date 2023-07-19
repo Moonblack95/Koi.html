@@ -1,0 +1,60 @@
+body{
+    color: black;
+    font-size: 60px;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-size:contain;
+    background-image: url(../images/colores.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Lato', sans-serif;
+    background-color: palegoldenrod;
+    text-shadow: darkslategrey;
+}
+.titulo{
+    color: aliceblue;
+    text-align:right;
+    font-size:600%;
+    font-family: 'Cherry Bomb One', cursive;
+}
+.nav-right-section{
+    margin-left: 25px;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+p{
+    color:black  
+}
+strong{
+    justify-items: last baseline;
+    color: darkred;
+}
+li{
+    color:black;
+    justify-items: last baseline;
+}
+em{
+    color:darkred;
+}
+h1{
+    color: coral;
+}
+h2{
+    color:aliceblue;
+}
+
+img{
+    width: 500px;
+    align-items: center;
+}
+.pez koi blanco{
+    width: 200px;
+    align-items: center
+}
+.info{
+    text-align: justify;
+    font-size: 55px;
+}
+.indice{
+    color: darkred;
+}
